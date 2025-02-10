@@ -2,3 +2,4 @@
 data/
 .idea/
 commands
+.DS_Store
