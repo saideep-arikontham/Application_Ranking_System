@@ -1,0 +1,30 @@
+name: ARS
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.1
+  - ipykernel
+  - jupyter
+  - langchain
+  - matplotlib
+  - numpy
+  - pandas
+  - pytorch
+  - scikit-learn
+  - seaborn
+  - transformers
+  - pip
+  - faker
+  - wordcloud
+  - nltk
+  - xgboost
+  - peft
+  - evaluate
+  - pip
+    - pip:
+        - langchain-ollama
+        - langchain-nvidia-ai-endpoints
+        - sentence-transformers
+
+prefix: /Users/saideepbunny/anaconda3/envs/ARS
