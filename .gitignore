@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 data/
+models/
 .idea/
 commands
 .DS_Store
