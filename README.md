@@ -86,12 +86,9 @@ These metrics provided additional quantitative signals that complement the predi
 
 - When the web interface was used to score these resumes, the top 5 resumes were the ones that were actually the resumes shortlisted through manual selection which shows that the model is performing consistently throughout different sets of data. Below is the image of ranking table from the web interface (Resume 6-10 are EAI's shortlisted resumes and Resume 1-5 are other random resumes)
 
-<p align="center">
-  <img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUf4VGXFTCPGFOFNwXZOXrjvue_ZvDAnumvBFXAKcuF894gA-sJW7CEQVyI0qoix1ATrPxaLSTaToGpl2WFT9Saspp5iCBEb8FY_JUMPoU7UwaGmizVjwRLOy432sM8tps5UAzLpFA=s2048?key=pZ-bGATcnHabhDUBZDnMhyxT" width="100"/>
-</p>
 
-
-  
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUf4VGXFTCPGFOFNwXZOXrjvue_ZvDAnumvBFXAKcuF894gA-sJW7CEQVyI0qoix1ATrPxaLSTaToGpl2WFT9Saspp5iCBEb8FY_JUMPoU7UwaGmizVjwRLOy432sM8tps5UAzLpFA=s2048?key=pZ-bGATcnHabhDUBZDnMhyxT)**
+ 
 
 ## Discussion (Analysis)
 
