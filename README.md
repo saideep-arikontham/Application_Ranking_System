@@ -119,9 +119,6 @@ The context-aware resume scoring model significantly outperforms traditional ATS
 
 5. Indeed YouTube. *A guide to applicant tracking systems*. March 2022.
 
-  
-
----
 
   
 
