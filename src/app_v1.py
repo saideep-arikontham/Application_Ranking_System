@@ -27,6 +27,8 @@ import warnings
 warnings.filterwarnings("ignore")
 
 nltk.download('punkt')
+nltk.download('punkt_tab')
+nltk.download('stopwords')
 
 st.set_page_config(
     page_title="Resume Evaluator & Ranking System", 
@@ -135,7 +137,6 @@ def load_models():
     sentence_model = SentenceTransformer("all-mpnet-base-v2")
 
     # Load NLTK stopwords
-    nltk.download('stopwords')
     stop_words = set(stopwords.words('english'))
     stop_words.update(["overqualified", "underqualified", "mismatch", "good"])
 
