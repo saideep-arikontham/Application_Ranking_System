@@ -24,7 +24,6 @@ huggingface-hub==0.24.*
 
 # --- Tokenizers / sentencepiece / tiktoken used by some models ---
 sentencepiece==0.2.*
-tiktoken==0.7.*
 
 # --- App / UI ---
 streamlit==1.43.*
