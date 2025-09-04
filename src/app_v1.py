@@ -26,6 +26,7 @@ from bert_score import score
 import warnings
 warnings.filterwarnings("ignore")
 
+nltk.download('punkt')
 
 st.set_page_config(
     page_title="Resume Evaluator & Ranking System", 
