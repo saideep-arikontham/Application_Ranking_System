@@ -6,6 +6,10 @@ import re
 import string
 from collections import Counter
 import nltk
+nltk.download('punkt')
+nltk.download('punkt_tab')
+nltk.download('stopwords')
+
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import time
@@ -25,10 +29,6 @@ from bert_score import score
 
 import warnings
 warnings.filterwarnings("ignore")
-
-nltk.download('punkt')
-nltk.download('punkt_tab')
-nltk.download('stopwords')
 
 st.set_page_config(
     page_title="Resume Evaluator & Ranking System", 
