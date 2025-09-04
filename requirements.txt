@@ -127,7 +127,7 @@ zipp
 zstandard==0.24.0
 appnope==0.1.4
 asttokens==3.0.0
-brotli=1.1.0
+brotli==1.1.0
 brotli-bin==1.1.0
 brotli-python==1.1.0
 bzip2==1.0.8
